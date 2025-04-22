@@ -10,7 +10,7 @@ public class Main {
             System.out.println("Exception captured: " + e.getMessage());
         }
 
-        sell1.addProduct(new Product("Bread", 1.20));
+        sell1.addProduct(new Product("B", 1.20));
         sell1.addProduct(new Product("Milk", 0.95));
 
         try {
