@@ -64,7 +64,9 @@ Git Bash or other terminal
 Clone the Repository (Optional)
 
 git clone https://github.com/ArnauAsole/S1.02.-Exceptions.Lv1.Ex01.git
+
 cd ArnauAsole/S1.02.-Exceptions.Lv1.Ex01
+
 Open the Project in the IDE
 
 IntelliJ: File → Open and select the folder.
