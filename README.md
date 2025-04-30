@@ -28,14 +28,12 @@ Includes a working example that generates and catches an IndexOutOfBoundsExcepti
 📝 Example Usage
 To compile and run the program from the command line:
 
-bash
-Copiar
-Editar
 # Compile all .java files
 javac Product.java Sale.java EmptySaleException.java Main.java
 
 # Run the main program
 java Main
+
 💻 Technologies Used
 Java 17
 
@@ -86,5 +84,3 @@ This is a command-line based Java application that runs locally in your terminal
 
 🤝 Acknowledgements
 Special thanks to Adria, Ignasi, Ana, Alejandro, and Marina for designing and contributing to this exercise.
-
-Would you like me to include the source code files (Product.java, Sale.java, etc.) as well?
