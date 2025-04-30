@@ -5,7 +5,7 @@ public class Main {
         Sales sell1 = new Sales();
 
         try {
-            sell1.calcuProduct();
+            sell1.calcuteTotalProduct();
         } catch (EmptySellException e) {
             System.out.println("Exception captured: " + e.getMessage());
         }
@@ -14,7 +14,7 @@ public class Main {
         sell1.addProduct(new Product("Milk", 0.95));
 
         try {
-            sell1.calcuProduct();
+            sell1.calcuteTotalProduct();
         } catch (EmptySellException e) {
             System.out.println("Exception captured: " + e.getMessage());
         }
